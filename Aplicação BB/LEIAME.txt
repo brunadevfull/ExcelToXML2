@@ -1,0 +1,14 @@
+HELLO! \o/
+
+Pode copiar a pasta "dados" direto pro C ou pra algum outro diretório de sua preferência. 
+O sistema funciona com qualquer diretório, é só uma questão de organização mesmo. =D
+
+Para instalar o programa, basta clicar no Setup da pasta "Aplicação BB" e seguir com next, next. :)
+
+>> No programa, basta escolher qual arquivo excel quer converter (usar o modelo existente na pasta dados\xls, pois o programa espera um formato específico, do contrário, dará erro);
+>> Colocar o nome do arquivo a ser gerado (exemplo: nomedoarquivo.xml);
+>> Escolher o responsável (para os já cadastrados, os dados são preenchidos automaticamente);
+>> Observar se o processo de pagamento está correto;
+>> Clicar em Converter. =)
+
+Que saudades de fazer essas carinhas sem emoji. =D
